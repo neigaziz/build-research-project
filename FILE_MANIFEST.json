@@ -1,0 +1,99 @@
+{
+  "files": [
+    {
+      "path": "CONVERSION_PLAN.md",
+      "bytes": 1678,
+      "sha256": "0718f407505666adcbfb5b4b388684c01af592d0b41a75efbf21c03fb1f67bb9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3714,
+      "sha256": "9c64bd9973a68bf1d745f3a15575461282cbd40669cecc975f3d1bc4ed09bed4"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 36554,
+      "sha256": "2d49e21f27d2e723a24c6afb89745c6eb9391f5d12708d0c6c6728ea7207242f"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 1995,
+      "sha256": "4f1d19b91098a8fa303b230fdccac240f1a8534742be9d5424e43ddd9a704795"
+    },
+    {
+      "path": "conversion.diff",
+      "bytes": 1369,
+      "sha256": "348b633c4bac270a574b6738b3e0d49ef6c841f3324beb843b6e181913a290a9"
+    },
+    {
+      "path": "original-plugin/.codex-plugin/plugin.json",
+      "bytes": 2098,
+      "sha256": "83fda681faac01a03e2a74b92e2e1d980861a4eecfe6b55545bc041cbcaefd1e"
+    },
+    {
+      "path": "original-plugin/assets/icon.svg",
+      "bytes": 725,
+      "sha256": "9e5872ced479af9d1d3633d064165a1383579fc0667ba20e0ca57ecba8caf071"
+    },
+    {
+      "path": "original-plugin/skills/build-research-project/SKILL.md",
+      "bytes": 36314,
+      "sha256": "233a9377fa0adc59f5c5842aff2bc6722ea0c6ae137145b9ab67912abbfb0001"
+    },
+    {
+      "path": "original-plugin/skills/build-research-project/references/dataset-provenance.md",
+      "bytes": 2583,
+      "sha256": "efd95ebbf1d5af5ce9114475fa0415de02c68dfe0dcb113d4eb5290c43d10f6b"
+    },
+    {
+      "path": "original-plugin/skills/build-research-project/references/project-output-contract.md",
+      "bytes": 2569,
+      "sha256": "59ff2da223dcd4450f079d72985e45f8cdbebc5a6c3a2e2a76dceb05764b0034"
+    },
+    {
+      "path": "original-plugin/skills/build-research-project/references/scientific-methods-checklist.md",
+      "bytes": 3890,
+      "sha256": "b697675f8b3b0f7f1096246e1a5ead76be31440c2cac9010030626bdac632623"
+    },
+    {
+      "path": "original-plugin/skills/build-research-project/scripts/validate_project.py",
+      "bytes": 6377,
+      "sha256": "f3613f985f7ebab3c2aeb71d7d46ece5f8aa5e0732aa85e1c5ac95c2ecd05408"
+    },
+    {
+      "path": "original-plugin/skills/build-research-project/tests/test_validate_project.py",
+      "bytes": 3958,
+      "sha256": "f561afe5e667783883a183b846b5d9b4657e6a17fad2eba30bcb54f8ded27845"
+    },
+    {
+      "path": "references/chatbox-runtime.md",
+      "bytes": 5200,
+      "sha256": "29f1ceef311ab5b4af29bb6f33f1b68cb83eb2fdc745bba8dad91cef82f9f4a5"
+    },
+    {
+      "path": "references/dataset-provenance.md",
+      "bytes": 2583,
+      "sha256": "efd95ebbf1d5af5ce9114475fa0415de02c68dfe0dcb113d4eb5290c43d10f6b"
+    },
+    {
+      "path": "references/project-output-contract.md",
+      "bytes": 2569,
+      "sha256": "59ff2da223dcd4450f079d72985e45f8cdbebc5a6c3a2e2a76dceb05764b0034"
+    },
+    {
+      "path": "references/scientific-methods-checklist.md",
+      "bytes": 3890,
+      "sha256": "b697675f8b3b0f7f1096246e1a5ead76be31440c2cac9010030626bdac632623"
+    },
+    {
+      "path": "scripts/validate_project.py",
+      "bytes": 6377,
+      "sha256": "f3613f985f7ebab3c2aeb71d7d46ece5f8aa5e0732aa85e1c5ac95c2ecd05408"
+    },
+    {
+      "path": "tests/test_validate_project.py",
+      "bytes": 3958,
+      "sha256": "f561afe5e667783883a183b846b5d9b4657e6a17fad2eba30bcb54f8ded27845"
+    }
+  ]
+}

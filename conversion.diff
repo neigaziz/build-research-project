@@ -1,0 +1,17 @@
+--- original/SKILL.md
++++ chatbox/SKILL.md
+@@ -5,9 +5,13 @@
+ 
+ # Open Dataset Project Builder
+ 
++## Chatbox runtime compatibility
++
++Read [Chatbox runtime guidance](references/chatbox-runtime.md) before starting work. This adapter maps the existing workflow to available Chatbox tools; it does not replace or relax any requirement below.
++
+ ## 1. Purpose and operating principles
+ 
+-Convert a user's analysis request into a self-contained, reproducible research project grounded in public data and defensible scientific methods. The deliverable is not merely a proposal, a list of datasets or a notebook outline: when the active ChatGPT session provides the necessary browsing, download, file and code-execution capabilities, actually retrieve permitted datasets, inspect them, run the planned analysis, validate the outputs and assemble the project folder.
++Convert a user's analysis request into a self-contained, reproducible research project grounded in public data and defensible scientific methods. The deliverable is not merely a proposal, a list of datasets or a notebook outline: when the active Chatbox session provides the necessary browsing, download, file and code-execution capabilities, actually retrieve permitted datasets, inspect them, run the planned analysis, validate the outputs and assemble the project folder.
+ 
+ The governing principles are:
+ 
